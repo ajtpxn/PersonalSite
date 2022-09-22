@@ -1,4 +1,0 @@
-test
-1234
-testing backupWebsite.command
-testing alias
